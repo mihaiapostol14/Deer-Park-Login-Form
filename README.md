@@ -12,7 +12,7 @@ The Deer Park Login Form project is a web-based login form designed to provide a
 
 ## Preview
 
-![Login Form Preview](./assets/preview.png)
+![Login Form Preview](https://github.com/mihaiapostol14/Deer-Park-Login-Form/blob/5370e9a559733cd954b84ff51ba99eac9fffbd06/assets/preview.png)
 
 ## File Structure
 
